@@ -1,2 +1,2 @@
 # spring-api-image-upload
-Example of save and get image which stored in database
+Example of saving and getting imagesstored in database
